@@ -1,0 +1,31 @@
+================================================================
+  MY OPEN SOURCE MANIFESTO
+  By: PRATYUSH MATHUR (24BCE10413)
+  Generated: 26 March 2026 at 04:41
+================================================================
+
+  Every day I rely on github — a tool I did not have to buy,
+  did not have to beg permission to use, and can inspect down
+  to its last line of code if I choose to. This is not a small
+  thing. It is the direct result of people choosing to build
+  in the open and share their work freely.
+
+  To me, freedom in software means independence. Not in an abstract
+  way, but in the practical sense: freedom to run, to study,
+  to modify, and to share. The four freedoms that the Free
+  Software Foundation articulates are not idealism. They are
+  the conditions under which knowledge compounds rather than
+  stagnates. Every open-source tool that exists is evidence
+  of what becomes possible when those conditions are met.
+
+  If I could build one thing and share it freely, it would be
+  ai medication. I would license it under GPL v2 — not because
+  it would make me famous, but because it is the surest way
+  to ensure that whatever I build remains available, forever,
+  to everyone who might find it useful. Standing on the
+  shoulders of giants means, eventually, being someone else's
+  giant. This is my commitment to that chain.
+
+----------------------------------------------------------------
+  Course: Open Source Software (NGMC) | VITyarthi 2026
+================================================================
